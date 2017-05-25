@@ -1,6 +1,6 @@
 $(() =>{
    var saySori = () =>{
-       alert("そり！！！");
+       alert("こんにちわ");
    } 
-   $('#btn').click(saySori);
+   $('btn').click(saySori);
 });
