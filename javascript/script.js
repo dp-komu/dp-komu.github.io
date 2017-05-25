@@ -2,5 +2,5 @@ $(() =>{
    var saySori = () =>{
        alert("こんにちわ");
    } 
-   $('btn').click(saySori);
+   $('#btn').click(saySori);
 });
